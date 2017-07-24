@@ -1,0 +1,15 @@
+{
+  "name": "gulptestbaby",
+  "version": "1.0.0",
+  "description": "I am the one and only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Ay Lmao'"
+  },
+  "author": "Zeenan",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
+}
